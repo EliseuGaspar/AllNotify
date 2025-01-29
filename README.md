@@ -1,5 +1,7 @@
 # **All Notify**
 
+**Status**: Em Desenvolvimento.
+
 Este é um sistema de agregação de notificações que permite que os usuários se conectem a suas plataformas de redes sociais (Facebook, Instagram, WhatsApp, Gmail) e recebam todas as suas notificações em um único local. O usuário pode selecionar quais notificações deseja receber, visualizar mensagens e realizar buscas por conversas e emails.
 
 ---
